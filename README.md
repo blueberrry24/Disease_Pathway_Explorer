@@ -1,4 +1,4 @@
-# Disease_Pathway_Explorer.py
+# Disease_Pathway_Explorer
 The Disease Pathway Explorer is a beginner-friendly bioinformatics project built using Python.
 
 It allows users to input a disease name and automatically retrieves the associated biological pathways using the KEGG (Kyoto Encyclopedia of Genes and Genomes) REST API.
