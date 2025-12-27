@@ -86,7 +86,7 @@ Demonstrates API-based data retrieval
 
 Builds foundation for disease–gene–pathway analysis
 
-🌱 Future Improvements
+ Future Improvements
 
 Extract genes involved in each pathway
 
@@ -96,7 +96,7 @@ Compare pathways between two diseases
 
 Add error handling and menu options
 
-**🙌 Author**
+**Author**
 
 **Namrata Vishwakarma**
 
